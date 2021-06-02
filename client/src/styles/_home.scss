@@ -1,0 +1,18 @@
+
+
+.home_Container{
+    background: #007e39;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+    .home{
+        position: relative;
+    }
+}
+
+.contactUs{
+    background: #a1cf37;
+}

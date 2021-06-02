@@ -1,0 +1,25 @@
+.createAcc_Container{
+    background: #007e39;
+    // min-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    // height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+
+    .createAcc{
+
+        background: #fff;
+
+        .password-toggle-icon{
+            position: relative;
+            top: -45px; 
+            // right: 550px;
+            left: 230px;
+            z-index: 1000;
+            cursor: pointer;
+        }
+    }
+}
+
